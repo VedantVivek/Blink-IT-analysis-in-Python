@@ -76,4 +76,13 @@ The project also highlights how Python and its data ecosystem can be effectively
 
 ---
 
+### 📷 Notebook Snapshots
+
+<p align="center">
+  <img src="https://github.com/VedantVivek/Blink-IT-analysis-in-Python/raw/main/Images%20of%20notebook/Snapshots%20of%20notebook.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/VedantVivek/Blink-IT-analysis-in-Python/raw/main/Images%20of%20notebook/snapshots%20of%20notebook%202.png" width="800"/>
+</p>
 
